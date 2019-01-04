@@ -1,0 +1,27 @@
+{
+  "name": "apiflash",
+  "description": "Clean and polished screenshot API built over Chrome and AWS Lambda to ensure scalability, stability and cost effectiveness.",
+  "version": "0.1.0",
+  "dependencies": {},
+  "keywords": [
+    "screenshots",
+    "urlbox",
+    "urlbox.io",
+    "phantom",
+    "phantomjs",
+    "screenshot",
+    "website",
+    "urlbox",
+    "headless",
+    "chrome",
+    "screenshotlayer",
+    "render",
+    "page",
+    "webkit",
+    "webkit2png",
+    "url2png",
+    "fullpage",
+    "fullheight"
+  ],
+  "author": "Timothée Jeannin"
+}
