@@ -17,7 +17,7 @@ npm install apiflash --save
 console.log('ok');
 ```
 
-Available parameters:
+## Parameters
 
 <table>
     <thead><tr><th>Parameter</th><th>Default</th><th>Description</th></tr></thead>
