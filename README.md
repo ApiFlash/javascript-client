@@ -15,7 +15,7 @@ npm install apiflash --save
 ## Example
 
 ```js
-// Node.js not implemented yet.
+// Node.js client not implemented yet.
 ```
 
 ## Parameters

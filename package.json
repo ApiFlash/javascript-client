@@ -1,7 +1,7 @@
 {
   "name": "apiflash",
   "description": "Clean and polished screenshot API built over Chrome and AWS Lambda to ensure scalability, stability and cost effectiveness.",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "dependencies": {},
   "keywords": [
     "screenshots",
