@@ -1,10 +1,12 @@
 # ApiFlash Javascript Client
 
-Easily capture website screenshots using the ApiFlash [website screenshot API](https://apiflash.com). 
+This is a placeholder for a future Node.js [website screenshot API](https://apiflash.com) client. 
+Get in touch with us at [contact@apiflash.com](mailto:contact@apiflash.com) if you need this client. 
 
-Signup at [apiflash.com](https://apiflash.com) to get your API key.
 
 ## Installation
+
+Signup at [apiflash.com](https://apiflash.com) to get your API key.
 
 ```
 npm install apiflash --save
@@ -13,8 +15,7 @@ npm install apiflash --save
 ## Example
 
 ```js
-// TODO
-console.log('ok');
+// Node.js not implemented yet.
 ```
 
 ## Parameters
